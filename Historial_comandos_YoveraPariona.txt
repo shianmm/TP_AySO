@@ -1,0 +1,32 @@
+pwd
+ls -l
+cd repogit
+cd TP_AySO/
+git status
+git commit -m "feat: Añadiendo imformacion de CPU"
+git push
+la -l
+cat > README.md
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+cd ..
+pwd
+mkdir -p materia1/uni1 materia1/uni2 materia1/uni3 materia2/uni1 materia2/uni2 materia2/uni3
+ls -l
+cat > script_dir.sh
+chmod +x script_dir.sh
+cd repogit/
+cs TP_AySO/
+cd TP_AySO/
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+historial -a
+cd ..
+historial -a
+cd repogit/
+cd TP_AySO/
+history -a
+cd ..
+history -a
